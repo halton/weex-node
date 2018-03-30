@@ -1,0 +1,29 @@
+{
+  "name": "weex-node",
+  "version": "0.0.1",
+  "description": "Run Node.js within a Weex app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halton/weex-node.git"
+  },
+  "keywords": [
+    "Weex",
+    "app"
+  ],
+  "author": "Halton Huo <halton.huo@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/halton/weex-node/issues"
+  },
+  "homepage": "https://github.com/halton/weex-node#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-vue": "^4.4.0"
+  },
+  "lock": false
+}
